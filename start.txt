@@ -1,0 +1,17 @@
+3시 27분에 버전관리 수업을 시작합니다.
+
+
+git init 으로 초기화
+git add로 연결
+git commit으로 추가
+
+git log
+git status
+
+git remote add origin 원격 저장소 주소
+-> 내 컴퓨터 로컬저장소에 github 원격 저장소 주소 연결
+git push origin master
+-> 데이터를 전송
+
+git clone 원격 저장소 주소
+-> 원격 저장소에 있는 데이터 내려받기
